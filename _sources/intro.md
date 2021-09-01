@@ -21,3 +21,7 @@ A PhD is a training program in research. You will learn to become an independent
 My answer to this question is to build skills to help tackle society's problems with technology and the scientific method i.e. experimentation. My PhD philosophy involves training students in 1) data exploration and analysis, 2) software engineering and development, and 3) understanding end-user needs. Along the way you will build skills in effective communication, how to conduct research, and in critical thinking. 
 
 I also believe research is a collaborative activity and would encourage all PhD students to collaborate with other students.    
+
+## Suggestions and feedback
+
+Hi, I'm Scott Barnett the author of this guide. Please feel free to create Github issues for chapter suggestions, corrections or feedback. 
