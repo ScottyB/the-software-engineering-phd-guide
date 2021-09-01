@@ -1,10 +1,13 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-article
+format: jb-book
 root: intro
-sections:
-- file: content
-  sections:
-  - file: markdown
-  - file: notebooks
+chapters:
+- file: how-to-plan-a-study-design
+- file: how-to-write-an-extended-abstract
+- file: how-to-write-an-introduction
+- file: how-to-write-a-related-work
+- file: how-to-write-a-thesis
+- file: how-to-thesis-topic
+

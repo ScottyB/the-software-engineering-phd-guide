@@ -8,7 +8,7 @@
 title                       : The Software Engineering PhD Guide  # The title of the book. Will be placed in the left navbar.
 author                      : Scott Barnett  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
+logo                        : figures/logo.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -26,8 +26,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ScottyB/The Software Engineering PhD Guide  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
+  url: https://github.com/ScottyB/the-software-engineering-phd-guide  # Online location of your book
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
