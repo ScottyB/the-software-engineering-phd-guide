@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Introduction &#8212; The Software Engineering PhD Guide</title>
+    <title>How to write a thesis? &#8212; The Software Engineering PhD Guide</title>
     
   <link href="_static/css/theme.css" rel="stylesheet" />
   <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
@@ -51,7 +51,8 @@
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="How to plan a study design?" href="how-to-plan-a-study-design.html" />
+    <link rel="next" title="How to write a thesis topic chapter?" href="how-to-thesis-topic.html" />
+    <link rel="prev" title="How to write a related work?" href="how-to-write-a-related-work.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -82,13 +83,13 @@
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
- <li class="toctree-l1 current">
-  <a class="reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="intro.html">
    Introduction
   </a>
  </li>
 </ul>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="how-to-plan-a-study-design.html">
    How to plan a study design?
@@ -109,8 +110,8 @@
    How to write a related work?
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="how-to-write-a-thesis.html">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
    How to write a thesis?
   </a>
  </li>
@@ -160,7 +161,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/intro.md"><button type="button"
+        <a class="dropdown-buttons" href="_sources/how-to-write-a-thesis.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -180,7 +181,7 @@
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         <a class="issues-button"
-            href="https://github.com/ScottyB/the-software-engineering-phd-guide/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here."><button
+            href="https://github.com/ScottyB/the-software-engineering-phd-guide/issues/new?title=Issue%20on%20page%20%2Fhow-to-write-a-thesis.html&body=Your%20issue%20content%20here."><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
         
@@ -207,18 +208,40 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-the-software-engineering-phd-guide">
-   What is The Software Engineering PhD Guide?
+  <a class="reference internal nav-link" href="#what-is-included-in-your-thesis">
+   What is included in your thesis
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-a-phd">
-   What is a PhD?
+  <a class="reference internal nav-link" href="#how-to-get-started">
+   How to get started
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#start-with-the-extended-abstract-to-identify-missing-sections">
+     Start with the extended abstract to identify missing sections
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#scope-the-thesis-with-an-introduction-and-conclusion">
+     Scope the thesis with an introduction and conclusion
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pick-off-the-easy-chapter-background-and-related-work">
+     Pick off the easy chapter: background and related work
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#dive-into-the-core-thesis-with-topic-chapters">
+     Dive into the core thesis with topic chapters
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#why-pursue-a-phd">
-   Why pursue a PhD?
+  <a class="reference internal nav-link" href="#get-started-early-and-seek-frequent-feedback">
+   Get started early and seek frequent feedback
   </a>
  </li>
 </ul>
@@ -232,25 +255,40 @@
         
               <div>
                 
-  <div class="section" id="introduction">
-<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
-<p>Welcome to <strong>The Software Engineering PhD Guide!</strong></p>
-<img alt="_images/questions.png" src="_images/questions.png" />
-<p>Society faces tough challenges from climate change, economic pressure, healthcare and mental well being. In all fields software engineering and AI play a fundamental role to leverage the copious amounts of data being generated by human-machine systems to tackle these challenges. To do this we need technical experts to effectively and ethically use techonlogy to devise solutions. We need SE4AI practioners.</p>
-<div class="section" id="what-is-the-software-engineering-phd-guide">
-<h2>What is The Software Engineering PhD Guide?<a class="headerlink" href="#what-is-the-software-engineering-phd-guide" title="Permalink to this headline">¶</a></h2>
-<p>A PhD is one way to develop the skills required for tackling tomorrow’s challenges. <strong>The Software Engineering PhD Guide</strong> has been written to assist and encourage PhD students in software engineering. I’ve put together suggestions to help students when they get stuck and to prepare students for tackling society’s problems.</p>
+  <div class="section" id="how-to-write-a-thesis">
+<h1>How to write a thesis?<a class="headerlink" href="#how-to-write-a-thesis" title="Permalink to this headline">¶</a></h1>
+<p>The pinnacle of your PhD is the completion of your thesis where you document the main takeaway from your research. A thesis contains the three core themes of your PhD, a background and related work, an introduction and a conclusion. Additional chapters are added if required. The two main thesis formats are 1) thesis by publication and 2) a traditional thesis. Neither is considered better than the other although I’d argue that if you plan to be an academic writing a traditional thesis is good practice for the writing you will be doing in the future. I’ll provide guidelines for getting started with either thesis.</p>
+<div class="section" id="what-is-included-in-your-thesis">
+<h2>What is included in your thesis<a class="headerlink" href="#what-is-included-in-your-thesis" title="Permalink to this headline">¶</a></h2>
+<p>Thesis writing starts when the core research is nearly completed. Unlike a conference paper or journal there is no page limit on a thesis although aim to write between 50,000 and 100,000 words. This limit is a rough guide and includes the appendix. Your thesis contains all your work in a single volume where you argue your thesis. Refer to the notes that you have taken throughout your research and integrate relevant notes into the appropriate chapters.</p>
 </div>
-<div class="section" id="what-is-a-phd">
-<h2>What is a PhD?<a class="headerlink" href="#what-is-a-phd" title="Permalink to this headline">¶</a></h2>
-<p>A PhD is a training program in research. You will learn to become an independent researcher and produce knowledge that contributes to your field. In software engineering a PhD is also an opportunity to develop deep technical skills in a short period of time in a specific area.</p>
+<div class="section" id="how-to-get-started">
+<h2>How to get started<a class="headerlink" href="#how-to-get-started" title="Permalink to this headline">¶</a></h2>
+<div class="figure align-default" id="thesis">
+<img alt="_images/thesis.png" src="_images/thesis.png" />
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Chapter order for getting started with your thesis</span><a class="headerlink" href="#thesis" title="Permalink to this image">¶</a></p>
 </div>
-<div class="section" id="why-pursue-a-phd">
-<h2>Why pursue a PhD?<a class="headerlink" href="#why-pursue-a-phd" title="Permalink to this headline">¶</a></h2>
-<p>My answer to this question is to build skills to help tackle society’s problems with technology and the scientific method i.e. experimentation. My PhD philosophy involves training students in 1) data exploration and analysis, 2) software engineering and development, and 3) understanding end-user needs. Along the way you will build skills in effective communication, how to conduct research, and in critical thinking.</p>
-<p>I also believe research is a collaborative activity and would encourage all PhD students to collaborate with other students.</p>
+<p><a class="reference internal" href="#thesis"><span class="std std-numref">Fig. 4</span></a> shows one approach for getting started with a thesis. The order I’ve highlighted here and the number of chapters are a guide only. Your own thesis will have additional chapters as you and your panel work together on how to best present your research. Use this guide as a way of getting started only rather than a prescriptive tool.</p>
+<div class="section" id="start-with-the-extended-abstract-to-identify-missing-sections">
+<h3>Start with the extended abstract to identify missing sections<a class="headerlink" href="#start-with-the-extended-abstract-to-identify-missing-sections" title="Permalink to this headline">¶</a></h3>
+<p>Start by assessing if you have completed enough research to write a thesis by writing the extended abstract. I’ve previously written about how to write an extended abstract here (PROVIDE LINK). Provided you can write the extended abstract without any missing sections even, if the work has not all been completed, then you are ready to start writing up your thesis. Also consider creating a skeleton outline of the whole thesis to get a feel for the chapters that need to be written.</p>
 </div>
-<div class="toctree-wrapper compound">
+<div class="section" id="scope-the-thesis-with-an-introduction-and-conclusion">
+<h3>Scope the thesis with an introduction and conclusion<a class="headerlink" href="#scope-the-thesis-with-an-introduction-and-conclusion" title="Permalink to this headline">¶</a></h3>
+<p>The first two sections you should write together are the introduction and conclusion. As you start to write the introduction you will realise there is research that is out of scope, this goes in your conclusion. Essentially as you write these two chapters you will define the scope of your research. As you write out the rest of your thesis, stick to the scope defined in the introduction and conclusion. There is a tendency to want to continuously polish your work. Where possible, resist this urge. Aim to do as much research as required to get your PhD and then move on with your life. Should you choose to be an academic there will be plenty of time to publish and polish aspects of your thesis.</p>
+</div>
+<div class="section" id="pick-off-the-easy-chapter-background-and-related-work">
+<h3>Pick off the easy chapter: background and related work<a class="headerlink" href="#pick-off-the-easy-chapter-background-and-related-work" title="Permalink to this headline">¶</a></h3>
+<p>Once your thesis has been scoped you are ready to write the background chapter. All of the notes and papers you have collected are summarised here. The background chapter is written in the same way as in a journal article although a related work section is always included. Assume that the reviewers are experts in the field and only include background material essential for understanding your thesis and discuss with your advisory panel on what to omit.</p>
+</div>
+<div class="section" id="dive-into-the-core-thesis-with-topic-chapters">
+<h3>Dive into the core thesis with topic chapters<a class="headerlink" href="#dive-into-the-core-thesis-with-topic-chapters" title="Permalink to this headline">¶</a></h3>
+<p>Topic chapters are where you make the core arguments, describe your methodology, and present your research findings. Begin by writing the introduction and conclusion of each topic chapter. Think of the topic chapters as three journal articles of your research. Each chapter logically follows on from the previous one as you build your story. I’ll provide more details on how to write a topic chapter in a separate article (PROVIDE LINK). You can include text of published papers in the thesis chapters although rework each section so that the story is consistent with your thesis.</p>
+</div>
+</div>
+<div class="section" id="get-started-early-and-seek-frequent-feedback">
+<h2>Get started early and seek frequent feedback<a class="headerlink" href="#get-started-early-and-seek-frequent-feedback" title="Permalink to this headline">¶</a></h2>
+<p>Writing a thesis is a large amount of work and starting early can make the mountain seem like a molehill. As you finish each section or chapter, seek feedback from your supervisors. The more frequent the feedback the quicker you can move on to the next stage of your life! If you have not read a thesis before, ask your supervisor for a couple of examples to give you ideas of how to present your thesis. Remember that you will have multiple iterations and reviews before the final version is produced so seek feedback frequently. I’d also recommend saving non-writing tasks to work on as you progress with your thesis so when you have days where you don’t feel like writing you can still produce outcomes. I’ll conclude with one final piece of advice, a PhD is rarely finished rather it is just wrapped up.</p>
 </div>
 </div>
 
@@ -283,11 +321,20 @@
 
 <div class='prev-next-bottom'>
     
+    <div id="prev">
+        <a class="left-prev" href="how-to-write-a-related-work.html" title="previous page">
+            <i class="prevnext-label fas fa-angle-left"></i>
+            <div class="prevnext-info">
+                <p class="prevnext-label">previous</p>
+                <p class="prevnext-title">How to write a related work?</p>
+            </div>
+        </a>
+    </div>
      <div id="next">
-        <a class="right-next" href="how-to-plan-a-study-design.html" title="next page">
+        <a class="right-next" href="how-to-thesis-topic.html" title="next page">
             <div class="prevnext-info">
                 <p class="prevnext-label">next</p>
-                <p class="prevnext-title">How to plan a study design?</p>
+                <p class="prevnext-title">How to write a thesis topic chapter?</p>
             </div>
             <i class="prevnext-label fas fa-angle-right"></i>
         </a>
