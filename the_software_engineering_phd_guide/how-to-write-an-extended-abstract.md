@@ -1,6 +1,6 @@
 # How to write an extended abstract?
 
-Writing is a fundamental skill to communicate ideas and concepts. This article focuses on how to summarise a thesis or research paper in an extended abstract. I've also included a checklist for you to validate your extended abstract [here](./figures/checklist-extended-abstract.pdf) 
+Writing is a fundamental skill to communicate ideas and concepts. This article focuses on how to summarise a thesis or research paper in an extended abstract. I've also included a [checklist](#checklist-for-evaluating-an-extended-abstract) for you to validate your extended abstract.
 
 ## What is an extended abstract?
 The extended abstract is a summary of a thesis or report. After reading an extended abstract the reader has a high-level overview of the thesis as the abstract is presented in the same order as the rest of the document. Each chapter or section expands upon one element from the extended abstract to provide the details omitted in the summary. A good extended abstract includes the essential information to communicate all the key points. Avoid leaving out information from the extended abstract that causes the reader to be surprised; a summary should be complete. As a rule of thumb: if you can remove information from the abstract and still capture the essence of the thesis then more work is required. 
@@ -32,3 +32,7 @@ The final paragraph wraps up the abstract by describing what will be left as fut
 
 ## How to get started?
 As with all writing the best place to start is with a plan. Start off by creating an outlining of the thesis and key points. Assume that people who are short for time will only read the abstract. Your job is to ensure that all of the important information has been communicated without the reader needing to read the full thesis. Next write out the abstract following the template above using the checklist below as a guide. Aim to have the full abstract written in a day accepting that the first version will require significant rework. Then, as with all writing, iterate through each paragraph removing content that is non-essential and expanding where key points were omitted until you are left with the essence of your thesis. 
+
+## Checklist for evaluating an extended abstract
+
+Use the checklist located <a href="checklist-extended-abstract.pdf">here</a> as a guide to what to include in your extended abstract. 

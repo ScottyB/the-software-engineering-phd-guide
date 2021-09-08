@@ -1,6 +1,6 @@
 # How to write a related work?
 
-Standing on the shoulders of giants is a popular phrase amongst academics. This phrase captures the idea that no research stands in isolation and that all work builds upon existing knowledge. The related work section is where you position your research in the context of recent work and demonstrate scholarship. In this article I will describe how to write a related work section of a research paper. 
+Standing on the shoulders of giants is a popular phrase amongst academics. This phrase captures the idea that no research stands in isolation and that all work builds upon existing knowledge. The related work section is where you position your research in the context of recent work and demonstrate scholarship. In this article I will describe how to write a related work section with a [template](#a-template-for-organising-your-related-work) for organising notes on papers. 
 
 ## What is related work?
 
@@ -35,5 +35,5 @@ Look for research in the three research areas that has been published from top r
 
 Start by outlining the key research areas related to your research and then summarise the research area by listing out the sub-themes with multiple citations for each sub-theme where possible. Then provide a critique of the related work by a) highlighting a gap, b) showing how your research is different, c) describe how you improve existing techniques, or d) showing how your work is complimentary. A common mistake when writing related work is to list out each relevant paper and talk about the individual findings. This should only be done for a few papers that are very similar to yours to provide a deeper critique. Another common problem in the related work section is to describe what the research papers do and provide no analysis in the context of your work. Assume that the reviewers are familiar with the related work and want to know how your work relates to the existing research. 
 
-## Conclusion
-Related work is one of the straightforward sections to write in a research paper. The goal is to demonstrate scholarship; that you understand the field and can contextualise your research. Also demonstrate that you are an active member of the community by building upon prior knowledge and addressing known gaps.
+## A template for organising your related work 
+A goal of related work is to demonstrate scholarship; that you understand the field and can contextualise your research. Also demonstrate that you are an active member of the community by building upon prior knowledge and addressing known gaps. In your own words, fill out each column of this <a href="related-work-template.xlsx">template</a> to help organise your related work. The next step is to start to group papers around core themes that emerge. 
