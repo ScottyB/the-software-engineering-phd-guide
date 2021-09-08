@@ -12,6 +12,14 @@ Society faces tough challenges from climate change, economic pressure, healthcar
 
 A PhD is one way to develop the skills required for tackling tomorrow's challenges. **The Software Engineering PhD Guide** has been written to assist and encourage PhD students in software engineering. I've put together suggestions to help students when they get stuck and to prepare students for tackling society's problems. 
 
+## How to use this guide?
+
+There are several ways to use this guide. 
+
+1. If you are a potential student, read through this guide to find out more about a PhD.
+2. If you are a PhD student, when you get stuck and don't know how to move forward read the relevant section. 
+3. If you are my PhD student, skim the guide as I'll refer to specific sections as we go. 
+
 ## What is a PhD?
 
 A PhD is a training program in research. You will learn to become an independent researcher and produce knowledge that contributes to your field. In software engineering a PhD is also an opportunity to develop deep technical skills in a short period of time in a specific area. 
