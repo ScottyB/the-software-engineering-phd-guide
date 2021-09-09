@@ -18,7 +18,7 @@ Chapter order for getting started with your thesis
 
 ### Start with the extended abstract to identify missing sections
 
-Start by assessing if you have completed enough research to write a thesis by writing the extended abstract. I’ve previously written about how to write an extended abstract here (PROVIDE LINK). Provided you can write the extended abstract without any missing sections even, if the work has not all been completed, then you are ready to start writing up your thesis. Also consider creating a skeleton outline of the whole thesis to get a feel for the chapters that need to be written. 
+Start by assessing if you have completed enough research to write a thesis by writing the [extended abstract](./how-to-write-an-extended-abstract).  Provided you can write the extended abstract without any missing sections even, if the work has not all been completed, then you are ready to start writing up your thesis. Also consider creating a skeleton outline of the whole thesis to get a feel for the chapters that need to be written. 
 
 ### Scope the thesis with an introduction and conclusion 
 
@@ -30,7 +30,7 @@ Once your thesis has been scoped you are ready to write the background chapter. 
 
 ### Dive into the core thesis with topic chapters
 
-Topic chapters are where you make the core arguments, describe your methodology, and present your research findings. Begin by writing the introduction and conclusion of each topic chapter. Think of the topic chapters as three journal articles of your research. Each chapter logically follows on from the previous one as you build your story. I’ll provide more details on how to write a topic chapter in a separate article (PROVIDE LINK). You can include text of published papers in the thesis chapters although rework each section so that the story is consistent with your thesis. 
+Topic chapters are where you make the core arguments, describe your methodology, and present your research findings. Begin by writing the introduction and conclusion of each topic chapter. Think of the topic chapters as three journal articles of your research. Each chapter logically follows on from the previous one as you build your story. See [this article](./how-to-thesis-topic) for more details on how to write a topic chapter. You can include text of published papers in the thesis chapters although rework each section so that the story is consistent with your thesis. 
 
 ## Get started early and seek frequent feedback 
 Writing a thesis is a large amount of work and starting early can make the mountain seem like a molehill. As you finish each section or chapter, seek feedback from your supervisors. The more frequent the feedback the quicker you can move on to the next stage of your life! If you have not read a thesis before, ask your supervisor for a couple of examples to give you ideas of how to present your thesis. Remember that you will have multiple iterations and reviews before the final version is produced so seek feedback frequently. I’d also recommend saving non-writing tasks to work on as you progress with your thesis so when you have days where you don’t feel like writing you can still produce outcomes. I’ll conclude with one final piece of advice, a PhD is rarely finished rather it is just wrapped up. 
