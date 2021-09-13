@@ -3,11 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: how-to-plan-a-study-design
-- file: how-to-write-an-extended-abstract
-- file: how-to-write-an-introduction
-- file: how-to-write-a-related-work
-- file: how-to-write-a-thesis
-- file: how-to-thesis-topic
-
+parts:
+- caption: Getting Started
+  chapters:
+  - file: how-to-improve-writing-skills    
+- caption: Writing a research paper 
+  chapters:  
+  - file: how-to-plan-a-study-design    
+  - file: how-to-write-an-introduction
+  - file: how-to-write-a-related-work
+- caption: Writing a thesis
+  chapters:
+  - file: how-to-write-a-thesis
+  - file: how-to-write-an-extended-abstract  
+  - file: how-to-thesis-topic
