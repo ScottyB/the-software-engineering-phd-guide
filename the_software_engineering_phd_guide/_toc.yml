@@ -6,7 +6,9 @@ root: intro
 parts:
 - caption: Getting Started
   chapters:
+  - file: what-to-consume
   - file: how-to-improve-writing-skills    
+  - file: how-to-write-a-progress-report
 - caption: Writing a research paper 
   chapters:  
   - file: how-to-plan-a-study-design    
