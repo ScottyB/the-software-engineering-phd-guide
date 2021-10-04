@@ -8,12 +8,16 @@ parts:
   chapters:
   - file: what-to-consume
   - file: how-to-improve-writing-skills    
+  - file: how-to-improve-programming-skills
+  - file: how-to-use-theory  
   - file: how-to-write-a-progress-report
 - caption: Writing a research paper 
   chapters:  
   - file: how-to-plan-a-study-design    
   - file: how-to-write-an-introduction
+  - file: how-to-write-a-methodology
   - file: how-to-write-a-related-work
+  - file: how-to-run-a-user-evaluation
 - caption: Writing a thesis
   chapters:
   - file: how-to-write-a-thesis
