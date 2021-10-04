@@ -1,6 +1,6 @@
 # How to improve writing skills?
 
-Deliberate practice is the only way. As you start writing the problems you will encounter include a) not knowing what to write about, b) producing content in a fixed time periord, and c) not knowing how to improve your writing. Start by forcing yourself to get words on the page rather than worrying about quality and reviese your work. With time you will be able to produce quality writing with fewer revisions. At the end of the article I've included [writing prompts](#10-writing-ideas) to help you get started.
+Deliberate practice is the only way. As you start writing the problems you will encounter include a) not knowing what to write about, b) producing content in a fixed time period, and c) not knowing how to improve your writing. Start by forcing yourself to get words on the page rather than worrying about quality and revise your work. With time you will be able to produce quality writing with fewer revisions. At the end of the article I've included [writing prompts](#writing-prompts) to help you get started.
 
 ## Write notes throughout your PhD
 
@@ -13,7 +13,7 @@ The Thesis Pyramid is made up of the content produced over your PhD
 
 Note taking throughout your PhD helps you 1) form original thoughts, 2) record your progress, and 3) reduce time to write articles. Effective note taking requires using your own words and revisiting your notes. Avoid replicating definitions or copy/pasting text from other sources, that prevents you from making the content your own. Take notes on a) papers you read, b) research ideas, c) meeting content, d) videos, e) presentations, and f) any other source of inspiration. 
 
-The main purpose of note taking is to reduce the effort of assemblying your thesis see {numref}`thesis-pyramid`. All the notes you take are ideas and content that comes out of your head onto paper which can be massaged with other pieces of content to form i) sentences, ii) paragraphs, iii) sections and iv) chapters. Think of the Pyramids created from stones assembled to form a larger structure. 
+The main purpose of note taking is to reduce the effort of assembling your thesis see {numref}`thesis-pyramid`. All the notes you take are ideas and content that comes out of your head onto paper which can be massaged with other pieces of content to form i) sentences, ii) paragraphs, iii) sections and iv) chapters. Think of the Pyramids created from stones assembled to form a larger structure. 
 
 ## Write for 40 minutes each day
 
@@ -28,7 +28,7 @@ In your daily writing practice, avoid descriptive writing and focus on forming a
 Dot points are great for sketching ideas and to outlining a plan. However, written prose debugs your own thinking and forces you to focus. By writing prose, gaps will emerge in your arguments and missing evidence will become clear. This is a good thing. It's much better that you form the habit of reviewing your own work and catching problems before a reviewer does. In future iterations refine your writing by filling in the gaps. When you do use dot points, rewrite them later in prose.
 
 
-## 10 writing prompts
+## Writing prompts
 Use the following prompts to get started with daily writing practice. 
 
 1. Argue why your favourite programming language is the best. 
