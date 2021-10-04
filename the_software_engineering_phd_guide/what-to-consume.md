@@ -7,7 +7,7 @@ Start by reading. In the sections below you will find general content for PhD st
 
 * [Selecting Empirical Methods for Software Engineering Research](https://link.springer.com/chapter/10.1007/978-1-84800-044-5_11), [DOI](https://doi.org/10.1007/978-1-84800-044-5_11)
 * [Construct Validity in Software Engineering Research and Software Metrics](https://www.researchgate.net/publication/325908933_Construct_Validity_in_Software_Engineering_Research_and_Software_Metrics), [DOI](https://dl.acm.org/doi/10.1145/3210459.3210461)
-* [What Makes Good Research in Software Engineering?](https://www.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf#:~:text=The%20most%20common%20research%20strategy%20in%20software%20engineering,compelling%20than%20examples%20of%20use%20on%20idealized%20problems.), [DOI](https://doi.org/10.1007/s10009-002-0083-4)
+* [What Makes Good Research in Software Engineering?](https://www.cs.cmu.edu/~Compose/ftp/shaw-fin-etaps.pdf), [DOI](https://doi.org/10.1007/s10009-002-0083-4)
 * [Toward Methodological Guidelines for Process Theories and Taxonomies in Software Engineering](https://www.researchgate.net/publication/322673772_Toward_Methodological_Guidelines_for_Process_Theories_and_Taxonomies_in_Software_Engineering), [DOI](https://doi.org/10.1109/TSE.2018.2796554)
 * First paper in a research theme: [Interactions for Untangling Messy History in a Computational Notebook](http://www.cs.cmu.edu/~NatProg/papers/p147-kery.pdf), [DOI](https://doi.ieeecomputersociety.org/10.1109/VLHCC.2018.8506495)
 * Second paper in a research theme: [Towards Effective Foraging by Data Scientists to Find Past Analysis Choices](http://www.cs.cmu.edu/~NatProg/papers/paper092-Kery-CHI2019.pdf), [DOI](https://doi.org/10.1145/3290605.3300322)

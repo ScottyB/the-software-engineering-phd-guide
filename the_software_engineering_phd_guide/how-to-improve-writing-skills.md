@@ -1,6 +1,6 @@
 # How to improve writing skills?
 
-Deliberate practice is the only way. As you start writing the problems you will encounter include a) not knowing what to write about, b) producing content in a fixed time period, and c) not knowing how to improve your writing. Start by forcing yourself to get words on the page rather than worrying about quality and revise your work. With time you will be able to produce quality writing with fewer revisions. At the end of the article I've included [writing prompts](#10-writing-ideas) to help you get started.
+Deliberate practice is the only way. As you start writing the problems you will encounter include a) not knowing what to write about, b) producing content in a fixed time period, and c) not knowing how to improve your writing. Start by forcing yourself to get words on the page rather than worrying about quality and revise your work. With time you will be able to produce quality writing with fewer revisions. At the end of the article I've included [writing prompts](#writing-prompts) to help you get started.
 
 ## Write notes throughout your PhD
 
@@ -28,7 +28,7 @@ In your daily writing practice, avoid descriptive writing and focus on forming a
 Dot points are great for sketching ideas and to outlining a plan. However, written prose debugs your own thinking and forces you to focus. By writing prose, gaps will emerge in your arguments and missing evidence will become clear. This is a good thing. It's much better that you form the habit of reviewing your own work and catching problems before a reviewer does. In future iterations refine your writing by filling in the gaps. When you do use dot points, rewrite them later in prose.
 
 
-## 10 writing prompts
+## Writing prompts
 Use the following prompts to get started with daily writing practice. 
 
 1. Argue why your favourite programming language is the best. 

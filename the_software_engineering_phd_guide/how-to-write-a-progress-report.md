@@ -1,6 +1,6 @@
 # How to write a progress report?
 
-During your PhD you will have to write a report to present your progress to an external panel. At Deakin University the first progress report is referred to as the Confirmation of Candidature (CoC). The CoC takes place after the 1 year mark and is designed to asses your research project. This article will provide a guide for preparing progress reports. 
+During your PhD you will have to write a report to present your progress to an external panel. At Deakin University the first progress report is referred to as the Confirmation of Candidature (CoC). The CoC takes place after the 1 year mark and is designed to asses your research project. This article will provide [tips](#general-tips) for preparing progress reports. 
 
 ## What happens at a Confirmation of Candidature?
 
