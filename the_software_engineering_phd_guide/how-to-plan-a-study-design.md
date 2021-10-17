@@ -17,6 +17,9 @@ Rewrite the hypotheses as research questions. Avoid writing research questions t
 ## Select a methodology suited to your research questions
 A research question influences the choice of methodology. For example, a research question such as “How do software engineers perceive the benefits of static analysis tools?” is well suited to a survey where you ask software engineers about their perception rather than an empirical investigation of Github issues. The choice of methodology is also influenced by a) time frames, b) researcher expertise/experience, c) researcher philosophy, and d) effort required. Outline the methodology approach including data analysis techniques and rough sample size. 
 
+## Identify where randomness can creep in
+Identify gaps where subjectivity or randomness is present in your study design and provide a mitigation approach. For example, for a study that involves annotating software defects, use multiple annotators and calculate Cohen's Kappa to assess the level of agreement between annotators. Randomness is related to sampling and can be addressed through increasing the sample size or (where applicable) performing a power analysis. No methodology is completely sound, there are always factors that are not considered or are out of scope. Mention these aspects in the threats to validity or future work sections of the paper. 
+
 ## Triangulate your findings using mixed-methods 
 In the software engineering field reviewers expect some validation of the findings. For example, if your study involves interviews then consider validating your transcription summaries with the interviewees. One strategy is to use mixed-methods where multiple methodologies are combined. This is done to triangulate findings by identifying multiple sources for the same result. Examples include running a survey followed by an interview to validate results, and surveying practitioners after a systematic mapping study. 
 
@@ -25,6 +28,9 @@ Contributions indicate the outcomes and findings that will add to the existing b
 
 ## Scope your research by listing future work and limitations
 Plan what you will not do. Research is never completed rather you stop to communicate findings with the community. Future work defines what you will do in the future given more time and favourable results. All research has limitations, what are the limitations of your research? Identifying limitations of your research is part of the scientific process and is expected by the reviewers. A limitation of your research can be addressed by updating the methodology or the research questions. At the planning stage these modifications are cheap to make! Limitations that will not be addressed for various reasons go in the threats to validity section of a paper. 
+
+## Consider publishing a registered report 
+A growing trend, that I hope that will continue, is the idea of publishing a research study design. Researchers write up their methodology and research questions as a separate report that is peer reviewed. On acceptance, the venue will guarantee to publish the results provided the exact methodology is followed. Publishing research study designs provides 1) feedback on the methodology prior to doing any work, 2) prevents the exclusion of negative results from the literature, and 3) encourages the creation of robust methodologies. 
 
 In conclusion, use a study design to kick start your research and to set a direction. Along the way your plan is going to change so use the planning process as a tool to debug your thinking and to avoid obvious pitfalls. 
 
