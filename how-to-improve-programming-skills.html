@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>How to write a related work? &#8212; The Software Engineering PhD Guide</title>
+    <title>How to improve programming skills? &#8212; The Software Engineering PhD Guide</title>
     
   <link href="_static/css/theme.css" rel="stylesheet" />
   <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
@@ -51,8 +51,6 @@
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="How to write a thesis?" href="how-to-write-a-thesis.html" />
-    <link rel="prev" title="How to write a methodology?" href="how-to-write-a-methodology.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -120,7 +118,7 @@
   Writing a research paper
  </span>
 </p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="how-to-plan-a-study-design.html">
    How to plan a study design?
@@ -136,8 +134,8 @@
    How to write a methodology?
   </a>
  </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="how-to-write-a-related-work.html">
    How to write a related work?
   </a>
  </li>
@@ -204,7 +202,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/how-to-write-a-related-work.md"><button type="button"
+        <a class="dropdown-buttons" href="_sources/how-to-improve-programming-skills.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -224,7 +222,7 @@
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         <a class="issues-button"
-            href="https://github.com/ScottyB/the-software-engineering-phd-guide/issues/new?title=Issue%20on%20page%20%2Fhow-to-write-a-related-work.html&body=Your%20issue%20content%20here."><button
+            href="https://github.com/ScottyB/the-software-engineering-phd-guide/issues/new?title=Issue%20on%20page%20%2Fhow-to-improve-programming-skills.html&body=Your%20issue%20content%20here."><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
         
@@ -251,45 +249,23 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-related-work">
-   What is related work?
+  <a class="reference internal nav-link" href="#create-a-solution-first-mindset-through-rapid-prototyping">
+   Create a solution first mindset through rapid prototyping
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#how-to-identify-your-related-work">
-   How to identify your related work?
-  </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#pick-a-venue-for-your-research">
-     Pick a venue for your research
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#establish-a-position-for-your-paper">
-     Establish a position for your paper
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#identify-research-areas">
-     Identify research areas
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#scan-the-literature-and-come-up-with-themes">
-     Scan the literature and come up with themes
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#writing-the-related-work">
-   Writing the related work
+  <a class="reference internal nav-link" href="#find-answers-from-data-by-defining-the-questions-upfront">
+   Find answers from data by defining the questions upfront
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#a-template-for-organising-your-related-work">
-   A template for organising your related work
+  <a class="reference internal nav-link" href="#gain-frequent-feedback-from-participants-and-colleagues">
+   Gain frequent feedback from participants and colleagues
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#opensource-all-scripts-and-prototypes">
+   Opensource all scripts and prototypes
   </a>
  </li>
 </ul>
@@ -303,43 +279,27 @@
         
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="how-to-write-a-related-work">
-<h1>How to write a related work?<a class="headerlink" href="#how-to-write-a-related-work" title="Permalink to this headline">¶</a></h1>
-<p>Standing on the shoulders of giants is a popular phrase amongst academics. This phrase captures the idea that no research stands in isolation and that all work builds upon existing knowledge. The related work section is where you position your research in the context of recent work and demonstrate scholarship. In this article I will describe how to write a related work section with a <a class="reference external" href="#a-template-for-organising-your-related-work">template</a> for organising notes on papers.</p>
-<div class="section" id="what-is-related-work">
-<h2>What is related work?<a class="headerlink" href="#what-is-related-work" title="Permalink to this headline">¶</a></h2>
-<div class="figure align-default" id="related-work">
-<img alt="_images/related-work.png" src="_images/related-work.png" />
-<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Overview of how the related work section is grouped and critiqued.</span><a class="headerlink" href="#related-work" title="Permalink to this image">¶</a></p>
+  <div class="tex2jax_ignore mathjax_ignore section" id="how-to-improve-programming-skills">
+<h1>How to improve programming skills?<a class="headerlink" href="#how-to-improve-programming-skills" title="Permalink to this headline">¶</a></h1>
+<p>A PhD is an opportunity to develop deep technical skills in a single area. I prefer to provide PhD students with opportunities to improve both their programming skills and their data science skills. For the purpose of this article I define programming as skills to help you be a better software engineer and data science as skills to help discover knowledge from data more effectively. Done right, the PhD is also an opportunity to create a portfolio of your work.</p>
+<div class="section" id="create-a-solution-first-mindset-through-rapid-prototyping">
+<h2>Create a solution first mindset through rapid prototyping<a class="headerlink" href="#create-a-solution-first-mindset-through-rapid-prototyping" title="Permalink to this headline">¶</a></h2>
+<p>Software developed as part of a PhD is primarily to evaluate a concept or to demonstrate the feasibility. During your PhD being able to rapidly explore multiple ideas and approaches helps refine your thought process. These skills are also helpful in exploratory software engineering where the best way to come up with a solution is unknown. For example, at the Applied Artificial Intelligence Institute we create prototypes for companies and often are unsure of the best technology stacks to use. We run a series of spikes to explore multiple iterations ensuring to test only the core features in the least amount of time as possible. Your PhD is a good time to develop this approach. Not all prototypes require code, low-code and no-code tools (think excel) are excellent approaches for some solutions.</p>
+<p>The quality of the code is of secondary importance during your PhD. As you learn more about the ideal solution you can incrementally refine the software artefacts. I recommend improving the quality of your prototypes as a break from thesis writing towards the end of your PhD. That said, be aware that the quality of the code you produce is not industry grade and is likely to require multiple iterations to improve.</p>
+<p><strong>I probably need to think of some guidelines here that clarify the amount of effort to put into code quality</strong></p>
 </div>
-<p>Related work is research that closely relates to your own and depends on the framing of the overall research outlined in the introduction. The outline of how the related work section is assembled is shown in <a class="reference internal" href="#related-work"><span class="std std-numref">Fig. 4</span></a>.</p>
+<div class="section" id="find-answers-from-data-by-defining-the-questions-upfront">
+<h2>Find answers from data by defining the questions upfront<a class="headerlink" href="#find-answers-from-data-by-defining-the-questions-upfront" title="Permalink to this headline">¶</a></h2>
+<p>Empirical software engineering is perfect for developing data science skills. The discipline and the methodology for finding answers to questions is transferable to industry projects. During your PhD you will have specific questions that need to be answered from surveys, interviews or repositories. To do this effectively the questions need to be defined up front, the analysis techniques decided, the metrics selected, and a method to follow defined. Ensure that you follow a similar process when working on client problems. Data science work has the potential to be a massive time sink, there are always new questions or new analysis techniques to try. Ensure that you keep the solution first mindset front and center when diving into data.</p>
 </div>
-<div class="section" id="how-to-identify-your-related-work">
-<h2>How to identify your related work?<a class="headerlink" href="#how-to-identify-your-related-work" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="pick-a-venue-for-your-research">
-<h3>Pick a venue for your research<a class="headerlink" href="#pick-a-venue-for-your-research" title="Permalink to this headline">¶</a></h3>
-<p>The choice of conference or journal influences the related work that reviewers expect to see in your paper. It’s a good idea to check 	publications from the last 3 years from the selected venue to confirm you have not missed key papers.</p>
+<div class="section" id="gain-frequent-feedback-from-participants-and-colleagues">
+<h2>Gain frequent feedback from participants and colleagues<a class="headerlink" href="#gain-frequent-feedback-from-participants-and-colleagues" title="Permalink to this headline">¶</a></h2>
+<p>Feedback plays an important part of your PhD. Embrace feedback, both positive and negative. The best thing about feedback is that it does not have to be actioned, although avoiding all feedback is also foolish. Feedback can help steer the direction of your research towards a solution that is beneficial to practitioners and help you come up with ideas that you hadn’t considered. Discuss ideas with other PhD students to see how their ideas influence your project. This is a great way to build a network and to get into the habit of creative discussions. The key is to get feedback on ideas.</p>
 </div>
-<div class="section" id="establish-a-position-for-your-paper">
-<h3>Establish a position for your paper<a class="headerlink" href="#establish-a-position-for-your-paper" title="Permalink to this headline">¶</a></h3>
-<p>Start by identifying the position of your paper and how you plan to pitch the research findings. Your supervisors and mentors will help with positioning the research. A position describes the way you plan to present your research paper and includes a motivation.</p>
-</div>
-<div class="section" id="identify-research-areas">
-<h3>Identify research areas<a class="headerlink" href="#identify-research-areas" title="Permalink to this headline">¶</a></h3>
-<p>Identifying research areas by answering the questions: what have others done to solve related problems? How have others used the techniques I am using? Select the three research areas that are closest to your research.</p>
-</div>
-<div class="section" id="scan-the-literature-and-come-up-with-themes">
-<h3>Scan the literature and come up with themes<a class="headerlink" href="#scan-the-literature-and-come-up-with-themes" title="Permalink to this headline">¶</a></h3>
-<p>Look for research in the three research areas that has been published from top ranked venues in the last 3 years. Group the related work into sub-themes.</p>
-</div>
-</div>
-<div class="section" id="writing-the-related-work">
-<h2>Writing the related work<a class="headerlink" href="#writing-the-related-work" title="Permalink to this headline">¶</a></h2>
-<p>Start by outlining the key research areas related to your research and then summarise the research area by listing out the sub-themes with multiple citations for each sub-theme where possible. Then provide a critique of the related work by a) highlighting a gap, b) showing how your research is different, c) describe how you improve existing techniques, or d) showing how your work is complimentary. A common mistake when writing related work is to list out each relevant paper and talk about the individual findings. This should only be done for a few papers that are very similar to yours to provide a deeper critique. Another common problem in the related work section is to describe what the research papers do and provide no analysis in the context of your work. Assume that the reviewers are familiar with the related work and want to know how your work relates to the existing research.</p>
-</div>
-<div class="section" id="a-template-for-organising-your-related-work">
-<h2>A template for organising your related work<a class="headerlink" href="#a-template-for-organising-your-related-work" title="Permalink to this headline">¶</a></h2>
-<p>A goal of related work is to demonstrate scholarship; that you understand the field and can contextualise your research. Also demonstrate that you are an active member of the community by building upon prior knowledge and addressing known gaps. In your own words, fill out each column of this <a href="related-work-template.xlsx">template</a> to help organise your related work. The next step is to start to group papers around core themes that emerge.</p>
+<div class="section" id="opensource-all-scripts-and-prototypes">
+<h2>Opensource all scripts and prototypes<a class="headerlink" href="#opensource-all-scripts-and-prototypes" title="Permalink to this headline">¶</a></h2>
+<p>I recommend publishing all scripts and prototypes developed during your PhD. A growing trend in software engineering research is to include artefacts used in research papers including scripts and tool prototypes. Opensourcing your prototypes enables other researchers to build on top of your ideas and to extend your work. Of course this requires a little attention to detail to ensure that your code runs and matches what was claimed in paper. For all papers I recommend setting up a git repository for data and scripts. Follow a set of conventions for your research to ensure that your work can be reproducible. <a class="reference external" href="http://github.com/a2i2/surround">Surround</a> is a framework that we built for helping move research prototypes into production ready system. The main purpose is to enable the evaluation of new ideas in production as with AI solutions the efficacy of an approach cannot be determined offline and must be evaluated in the context of use.</p>
+<p>A PhD, in Australia, runs for approximately 3 years. A hard working student can gain experience in research, programming and data science. Enjoy this time of learning and use your skills for the improvement of society.</p>
 </div>
 </div>
 
@@ -372,24 +332,6 @@
 
 <div class='prev-next-bottom'>
     
-    <div id="prev">
-        <a class="left-prev" href="how-to-write-a-methodology.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">How to write a methodology?</p>
-            </div>
-        </a>
-    </div>
-     <div id="next">
-        <a class="right-next" href="how-to-write-a-thesis.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">How to write a thesis?</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
 
 </div>
         
